@@ -17,3 +17,5 @@ markdown is leightweight and easy to create content
 
 - `#` level one Heading
 - `>` creates blockqouted text
+
+[Tools & Terminal Notes:](tools-terminal.md)
